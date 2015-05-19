@@ -2,12 +2,12 @@
 A Chrome Extension that overlays NYC Subway lines on streeteasy.com's maps
 
 ##How to Use
---Clone this repo
---Navigate to chrome://extensions/
---Check the box for "Developer Mode"
---Click the button to "Load Unpacked Extension..."
---Select the repo's folder
---Navigate to streeteasy.com, search, load a map, and you should see the subway lines appear.
+- Clone this repo
+- Navigate to chrome://extensions/
+- Check the box for "Developer Mode"
+- Click the button to "Load Unpacked Extension..."
+- Select the repo's folder
+- Navigate to streeteasy.com, search, load a map, and you should see the subway lines appear.
 
 
 TODO:  Add Subway stops markersm add logic that checks for the existence of a map before attempting to add things to a map.
